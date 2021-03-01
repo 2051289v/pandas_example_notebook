@@ -1,4 +1,5 @@
 Dataset description:
+
 The attached dataset contains mockup data for a mobile game.
 In the CSV file you will find, for both iOS and Android Platforms, the following measure by date: -
 ActiveUsers: the number of users active on that date -
